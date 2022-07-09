@@ -1,0 +1,17 @@
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabanı entity framwork çalışmaları\obj\Debug\veri_tabanı_entity_framwork_çalışmaları.Form1.resources
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabanı entity framwork çalışmaları\obj\Debug\veri_tabanı_entity_framwork_çalışmaları.Properties.Resources.resources
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabanı entity framwork çalışmaları\obj\Debug\veri tabanı entity framwork çalışmaları.csproj.GenerateResource.cache
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabanı entity framwork çalışmaları\obj\Debug\veri tabanı entity framwork çalışmaları.csproj.CoreCompileInputs.cache
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabanı entity framwork çalışmaları\bin\Debug\Etrade.mdf
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabanı entity framwork çalışmaları\bin\Debug\Etrade_log.ldf
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabanı entity framwork çalışmaları\bin\Debug\veri tabanı entity framwork çalışmaları.exe.config
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabanı entity framwork çalışmaları\bin\Debug\veri tabanı entity framwork çalışmaları.exe
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabanı entity framwork çalışmaları\bin\Debug\veri tabanı entity framwork çalışmaları.pdb
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabanı entity framwork çalışmaları\bin\Debug\EntityFramework.dll
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabanı entity framwork çalışmaları\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabanı entity framwork çalışmaları\bin\Debug\EntityFramework.xml
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabanı entity framwork çalışmaları\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabanı entity framwork çalışmaları\obj\Debug\veri tabanı entity framwork çalışmaları.csproj.CopyComplete
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabanı entity framwork çalışmaları\obj\Debug\veri tabanı entity framwork çalışmaları.exe
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabanı entity framwork çalışmaları\obj\Debug\veri tabanı entity framwork çalışmaları.pdb
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabanı entity framwork çalışmaları\obj\Debug\veri tabanı entity framwork çalışmaları.csproj.AssemblyReference.cache
